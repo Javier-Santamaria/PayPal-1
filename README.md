@@ -15,7 +15,7 @@ Contraseña PayPal: oj=5,@Tq
 
 Boton que acepta compra en PayPal y tambien por Tarjeta de Credito
 
-![image](https://github.com/Javier-Santamaria/PayPal-1/assets/126354748/ae68c54a-8e23-4019-b636-c1e0e3a26f4f)
+![image](https://github.com/Javier-Santamaria/PayPal-1/assets/126354748/bcfc8588-0a16-4f63-9bb5-7af74634db66)
 
 Interfaz para Logearte con PayPal
 
@@ -24,4 +24,13 @@ Interfaz para Logearte con PayPal
 Confirmar Compra
 
 ![image](https://github.com/Javier-Santamaria/PayPal-1/assets/126354748/2374b9c6-98f4-4686-b441-299acee10fa2)
+
+Compra Realizada y Boton para enviar Correo
+
+![image](https://github.com/Javier-Santamaria/PayPal-1/assets/126354748/8d004391-ab53-48f8-93a0-e9eb0f0fd99e)
+
+Correo con toda la informacion de la Compra
+
+![image](https://github.com/Javier-Santamaria/PayPal-1/assets/126354748/d7c9e825-f102-43d6-8aa0-84ea924ab1e1)
+
 
